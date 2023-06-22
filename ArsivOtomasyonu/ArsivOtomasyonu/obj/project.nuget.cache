@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLJkfpPrtx1RgXTEbqgX3H8c6E5z7tnQoJHwwgnraBJELOc3P9YsPOXzSaz+qscheioeRQtYECN3aIZ4xMpoGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dilar\\source\\repos\\ArsivOtomasyonu\\ArsivOtomasyonu\\ArsivOtomasyonu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dilar\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
